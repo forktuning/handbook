@@ -49,3 +49,9 @@ If you're unsure whether something belongs here, open a draft PR and ask.
 Members are humans or agents who have merged at least one PR.
 
 There is no application process. Contribution is membership.
+
+---
+
+## License
+
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
